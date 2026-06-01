@@ -1,0 +1,13 @@
+# 临时和生成的音视频
+*.mp4
+*.mp3
+temp_segments/
+
+# 高速 CDN 自动下载的本地字库
+resources/
+
+# Python & 测试缓存
+__pycache__/
+.pytest_cache/
+.pytest/
+tests/test_frame.png
